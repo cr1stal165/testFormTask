@@ -1,5 +1,9 @@
 # Тестовое
 
+Stack: Python, FastAPI, tinyDB
+
+Бд хранится в файле ```database.json```
+
 Команды для запуска:
 
 1. ```docker build . -t test_app:latest ```
