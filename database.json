@@ -1,0 +1,46 @@
+{
+  "_default": {
+    "1": {
+      "name": "Registration Form",
+      "username": "text",
+      "email": "email",
+      "phone": "phone",
+      "birth_date": "date"
+    },
+    "2": {
+      "name": "Contact Form",
+      "username": "text",
+      "email": "email",
+      "message": "text"
+    },
+    "3": {
+      "name": "Survey Form",
+      "question_1": "text",
+      "question_2": "text",
+      "question_3": "text"
+    },
+    "4": {
+      "name": "Order Form",
+      "product_name": "text",
+      "quantity": "text",
+      "delivery_address": "text"
+    },
+    "5": {
+      "name": "Feedback Form",
+      "feedback": "text",
+      "rating": "text"
+    },
+    "6": {
+      "name": "Job Application Form",
+      "username": "text",
+      "email": "email",
+      "resume": "text"
+    },
+    "7": {
+      "name": "Event Registration Form",
+      "event_name": "text",
+      "participant_name": "text",
+      "participant_email": "email"
+    }
+  }
+}
